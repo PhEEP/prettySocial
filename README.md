@@ -20,11 +20,11 @@ Field | Description
 `description` | Description of the page
 `media` | URL to an image
 
-### Twitter
+### Twitter & Houzz
 
 Field | Description
 --- | ---
-`via` | Your Twitter screen name
+`via` | Your Twitter screen name -or- Your Houzz ID
 
 ### Facebook
 
