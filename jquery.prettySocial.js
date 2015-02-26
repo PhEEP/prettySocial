@@ -47,6 +47,13 @@
                         height: 600
                     }
                 },
+                houzz: {
+                    url: 'http://www.houzz.com/imageClipperUpload?link={{url}}&hzid={{via}}&imageUrl={{media}}&title={{title}}&ref={{url}}',
+                    popup: {
+                        width:600,
+                        height: 600
+                    }
+                },
                 email: {
                 	url: 'mailto:{{username}}@{{host}}&subject={{title}}&body={{description}}',
                     popup: {
